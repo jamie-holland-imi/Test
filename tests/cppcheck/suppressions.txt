@@ -1,0 +1,5 @@
+# List of warnings to ignore
+missingIncludeSystem
+missingInclude
+unusedFunction
+unmatchedSuppression
